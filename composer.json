@@ -1,0 +1,52 @@
+{
+	"name": "atha/programming-full",
+    "description": "Just a simple code",
+    "keywords": ["php", "javascript", "ruby", "html", "css", "js", "sass", "scss", "api", "gulp", "cpp", "c-plus-plus", "jquery"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "atha/c-plus-plus": "^1.0",
+        "atha/html": "^1.0",
+        "atha/css": "^1.0.0",
+        "atha/css-layouting": "^1.0",
+        "atha/css3": "^1.0",
+        "atha/css-flexbox": "^1.0",
+        "atha/css-grid": "^1.0",
+        "atha/sass": "^1.0",
+        "atha/javascript": "^1.0",
+        "atha/javascript-dom": "^1.0",
+        "atha/jquery": "^1.0",
+        "atha/middle-js": "^1.0",
+        "atha/cli-bot": "^1.0",
+        "atha/firebase": "^1.0",
+        "atha/gulp": "^1.0",
+        "atha/ruby": "^1.0",
+        "atha/favicon": "^1.0",
+        "atha/php-basic": "^1.0",
+        "atha/php-mvc": "^1.0",
+        "atha/php-oop": "^1.0",
+        "atha/codeigniter3-app": "^1.0",
+        "atha/codeigniter4-app": "^1.1",
+        "atha/laravel5-app": "^1.2",
+        "atha/json": "^1.0",
+        "atha/movie-app": "^1.0",
+        "atha/pizza-app": "^1.0",
+        "atha/portfolio": "^1.1",
+        "atha/ci-rest-server": "^1.0",
+        "atha/ci-rest-client": "^1.0",
+        "atha/facebook-sdk": "^1.1",
+        "atha/markdown": "^1.1",
+        "atha/pos-app": "^1.0",
+        "atha/chat-app": "^1.0",
+        "atha/covid19-app": "^1.1",
+        "atha/hospital-app": "^1.0",
+        "atha/login-system": "^1.1",
+        "atha/point-of-sale": "^1.0"
+    }
+}
